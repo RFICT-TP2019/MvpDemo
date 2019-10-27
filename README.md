@@ -1,2 +1,17 @@
-# MvpDemo
-MVP pattern demonstration
+# MVP Demo
+
+Компоненты:
+-----------
+
+* Представление (View) — Отображение данных от модели.
+* Модель (Model) — бизнес-логика приложения.
+* Представитель (Presenter) — Изменение модели и обновление отображения данных.
+
+Связь между компонентами MVP:
+-----------------------------
+!["Связь между компонентами MVP"](https://professorweb.ru/my/WPF/documents_WPF/level36/files/img55059.jpg)
+
+Ссылки:
+-----------
+
+* https://professorweb.ru/my/WPF/documents_WPF/level36/36_4.php 
