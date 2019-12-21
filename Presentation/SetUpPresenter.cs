@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using Model;
 using Ninject;
 
 namespace Presentation
 {
-    public class SetUpPresenter : IPresenter
+    public class SetUpPresenter
     {
         private readonly IKernel _kernel;
         private readonly ISetUpView _view;

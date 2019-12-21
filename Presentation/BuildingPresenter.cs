@@ -1,9 +1,9 @@
-﻿using Model;
+using Model;
 using Ninject;
 
 namespace Presentation
 {
-    public class BuildingPresenter : IPresenter
+    public class BuildingPresenter
     {
         private readonly IKernel _kernel;
         private readonly IBuildingView _view;
